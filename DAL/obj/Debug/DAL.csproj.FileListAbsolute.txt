@@ -1,0 +1,10 @@
+C:\Users\Avalon\Desktop\КПП\KPP-labs-master\Kpp\DAL\bin\Debug\DAL.dll.config
+C:\Users\Avalon\Desktop\КПП\KPP-labs-master\Kpp\DAL\bin\Debug\DAL.dll
+C:\Users\Avalon\Desktop\КПП\KPP-labs-master\Kpp\DAL\bin\Debug\DAL.pdb
+C:\Users\Avalon\Desktop\КПП\KPP-labs-master\Kpp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Avalon\Desktop\КПП\KPP-labs-master\Kpp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avalon\Desktop\КПП\KPP-labs-master\Kpp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Avalon\Desktop\КПП\KPP-labs-master\Kpp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avalon\Desktop\КПП\KPP-labs-master\Kpp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Avalon\Desktop\КПП\KPP-labs-master\Kpp\DAL\obj\Debug\DAL.dll
+C:\Users\Avalon\Desktop\КПП\KPP-labs-master\Kpp\DAL\obj\Debug\DAL.pdb
